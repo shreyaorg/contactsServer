@@ -1,5 +1,5 @@
 {
-  "name": "pmatrimony",
+  "name": "contactsServer",
   "version": "0.0.1",
   "description": "Used for profile management",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "Sai Dubbaka",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.22.2",
+    "body-parser": "^1.15.2",
     "connect-multiparty": "^1.2.5",
     "cookie-session": "^1.1.0",
     "express": "^4.12.2",
