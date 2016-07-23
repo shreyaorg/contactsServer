@@ -1,0 +1,1 @@
+mongod.exe --dbpath=C:\mongodb-win32-x86_64-v2.4-2015-03-18\data\db
