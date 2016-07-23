@@ -21,7 +21,7 @@ app.use(session({
 //parse application/json
 app.use(bodyParser.json());
 
-app.use(serveStatic('wwwroot', {
+app.use(serveStatic('../contactsGui/build', {
 	'index': ['index.html']
 }));
 var routes = require('./routes.js');
